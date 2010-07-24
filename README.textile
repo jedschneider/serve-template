@@ -1,6 +1,6 @@
 h1. My Serve Templating Project
 
-just a skelton project directoy to use and quickly create projects to used with the serve browser.
+just a skelton project directory to use and quickly create projects to used with the serve web server.
 
 to use:
 
@@ -17,3 +17,5 @@ and then serve it
 @serve@
 
 and navigate to localhost:4000
+
+to find out more about serve visit the 'project page':http://github.com/jlong/serve
