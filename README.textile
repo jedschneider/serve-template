@@ -1,0 +1,19 @@
+h1. My Serve Templating Project
+
+just a skelton project directoy to use and quickly create projects to used with the serve browser.
+
+to use:
+
+@gem install serve@
+
+I had to install mongrel
+
+@gem install mongrel@
+
+and then serve it
+
+@cd myproject@
+
+@serve@
+
+and navigate to localhost:4000
